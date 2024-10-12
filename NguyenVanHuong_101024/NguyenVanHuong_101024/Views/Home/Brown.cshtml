@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Brown";
+}
+
+<h2>Brown</h2>
+<html>
+<body>
+
+    @{ Html.BeginForm("Browse", "Home");}
+    @*Tạo một form HTML bắt đầu với action là phương thức Browse trong controller Home. Khi form này được submit,
+        nó sẽ gửi dữ liệu đến hành động Browse trong controller Home.*@
+    @Html.Label("User Name : ") <br />
+    @*Tạo các nhãn (label) cho các input trong form, giúp người dùng biết thông tin cần điền vào.*@
+    @Html.TextBox("textBox1")<br />
+    @*Tạo một trường nhập liệu dạng text. Ở đây, "textBox1" là tên của trường nhập liệu này.*@
+    @Html.Label("Address : ")<br />
+    @Html.TextArea("textareal")<br />
+    @* Tạo một trường nhập liệu dạng textarea cho phép nhập văn bản dài hơn, chẳng hạn như địa chỉ.*@
+    @Html.Label("Password :")<br />
+    @Html.Password("password")<br />
+    @*Tạo trường nhập liệu cho mật khẩu (password), ẩn các ký tự khi nhập vào*@
+    @Html.Label("I need updates on my mail : ")
+    @Html.CheckBox("checkbox1")<br />
+    @*Tạo một ô checkbox để người dùng lựa chọn. Trong ví dụ này, checkbox1 là tên của checkbox.*@
+    @Html.DropDownList("myList", new SelectList(
+        new[] { "New York", "Philadelphia", "California" }), "Choose")<br />
+    @*Tạo một danh sách thả xuống (dropdown) với các lựa chọn.*@
+    Male @Html.RadioButton("Gender", "Male", true)<br />
+    @*Tạo nút radio để người dùng lựa chọn giữa các tùy chọn (trong trường hợp này là lựa chọn giới tính).*@
+    Famle @Html.RadioButton("Gender", "Female")<br />
+    <input type="submit" value="Submit">
+    @*Nút để gửi form, người dùng sẽ nhấn vào đây để gửi thông tin họ nhập.*@
+    @{ Html.EndForm();}
+    @*Đóng form.*@
+</body>
+</html>
+

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTUDDN\\NguyenVanHuong_101024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|d:\\ltuddn\\nguyenvanhuong_101024\\nguyenvanhuong_101024\\views\\home\\brown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|solutionrelative:nguyenvanhuong_101024\\views\\home\\brown.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|d:\\ltuddn\\nguyenvanhuong_101024\\nguyenvanhuong_101024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|solutionrelative:nguyenvanhuong_101024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|d:\\ltuddn\\nguyenvanhuong_101024\\nguyenvanhuong_101024\\views\\hello\\tonglemanga.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|solutionrelative:nguyenvanhuong_101024\\views\\hello\\tonglemanga.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|D:\\LTUDDN\\NguyenVanHuong_101024\\nguyenvanhuong_101024\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|solutionrelative:nguyenvanhuong_101024\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|D:\\LTUDDN\\NguyenVanHuong_101024\\nguyenvanhuong_101024\\views\\hello\\songaytrongthang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|solutionrelative:nguyenvanhuong_101024\\views\\hello\\songaytrongthang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|D:\\LTUDDN\\NguyenVanHuong_101024\\nguyenvanhuong_101024\\views\\hello\\uscln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|solutionrelative:nguyenvanhuong_101024\\views\\hello\\uscln.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|D:\\LTUDDN\\NguyenVanHuong_101024\\nguyenvanhuong_101024\\views\\hello\\giaiptb1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|solutionrelative:nguyenvanhuong_101024\\views\\hello\\giaiptb1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|D:\\LTUDDN\\NguyenVanHuong_101024\\nguyenvanhuong_101024\\views\\hello\\ptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC559A64-34AA-4BC8-9712-4A403F4A2875}|NguyenVanHuong_101024\\NguyenVanHuong_101024.csproj|solutionrelative:nguyenvanhuong_101024\\views\\hello\\ptb2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Brown.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Home\\Brown.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanHuong_101024\\Views\\Home\\Brown.cshtml",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Home\\Brown.cshtml",
+              "RelativeToolTip": "NguyenVanHuong_101024\\Views\\Home\\Brown.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T04:20:43.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NguyenVanHuong_101024\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NguyenVanHuong_101024\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:18:48.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tongLeManga.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\tongLeManga.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanHuong_101024\\Views\\Hello\\tongLeManga.cshtml",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\tongLeManga.cshtml",
+              "RelativeToolTip": "NguyenVanHuong_101024\\Views\\Hello\\tongLeManga.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T07:27:06.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoNgayTrongThang.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\SoNgayTrongThang.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanHuong_101024\\Views\\Hello\\SoNgayTrongThang.cshtml",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\SoNgayTrongThang.cshtml",
+              "RelativeToolTip": "NguyenVanHuong_101024\\Views\\Hello\\SoNgayTrongThang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T07:11:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "USCLN.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\USCLN.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanHuong_101024\\Views\\Hello\\USCLN.cshtml",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\USCLN.cshtml",
+              "RelativeToolTip": "NguyenVanHuong_101024\\Views\\Hello\\USCLN.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T06:43:22.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PTB2.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\PTB2.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanHuong_101024\\Views\\Hello\\PTB2.cshtml",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\PTB2.cshtml",
+              "RelativeToolTip": "NguyenVanHuong_101024\\Views\\Hello\\PTB2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T06:04:08.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "giaiPTB1.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\giaiPTB1.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanHuong_101024\\Views\\Hello\\giaiPTB1.cshtml",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Views\\Hello\\giaiPTB1.cshtml",
+              "RelativeToolTip": "NguyenVanHuong_101024\\Views\\Hello\\giaiPTB1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T03:56:18.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "NguyenVanHuong_101024\\Controllers\\HelloController.cs",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_101024\\NguyenVanHuong_101024\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "NguyenVanHuong_101024\\Controllers\\HelloController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:10:08.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

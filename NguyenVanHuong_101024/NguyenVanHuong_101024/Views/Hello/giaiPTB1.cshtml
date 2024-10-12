@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "giaiPTB1";
+}
+
+<h2>giaiPTB1</h2>
+
+@{ 
+    decimal a = ViewBag.a;
+    decimal b = ViewBag.b;
+
+    //ax + b = 0
+    string kq = $"Phuong trinh B1 : {a}x + {b} = 0";
+    if (a == 0)
+    {
+        if (b == 0)
+        {
+            kq += "Phuong trinh vo so nghiem";
+        }
+        else
+        {
+            kq += "Phuong trinh vo nghiem";
+        }
+    }
+    else
+    {
+        kq += $"Phuong trinh co nghiem x = {-b / a}";
+    }
+    
+    <p>@kq</p>
+}

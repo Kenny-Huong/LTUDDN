@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "tongLe";
+}
+
+<h2>Tổng và các số lẻ trong phạm vi @ViewBag.n</h2>
+
+@{ 
+    decimal n = ViewBag.n;
+    decimal tongLe = 0;
+    List<decimal> soLeList = new List<decimal>();
+
+    //Tìm các số lẻ và tính tổng
+    for (decimal i = 1; i <= n; i += 2)
+    {
+        tongLe += i;
+        soLeList.Add(i);
+    }
+}
+
+<p>Các số lẻ : @string.Join(",",soLeList)</p>
+<p>Tổng các số lẻ : @tongLe</p>

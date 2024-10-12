@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "tongLeManga";
+}
+
+<h2>Tổng và các phần tử lẻ trong mảng</h2>
+
+@{ 
+
+    var soLeList = ViewBag.SoLeList as List<int>;
+    var tongLe = ViewBag.TongLe;
+}
+
+@if(soLeList != null && soLeList.Count > 0)
+{
+    <p>Các phần tử lẻ trong mảng : @string.Join(",",soLeList)</p>
+    <p>Tổng các phần tử lẻ : @tongLe</p>
+}
+else
+{
+    <p>Không có phần tử lẻ nào trong mảng.</p>
+}

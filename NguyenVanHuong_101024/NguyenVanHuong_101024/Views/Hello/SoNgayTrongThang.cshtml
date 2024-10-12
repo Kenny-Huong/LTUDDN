@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "SoNgayTrongThang";
+}
+
+<h2>SoNgayTrongThang</h2>
+
+@{ 
+    int month = (int)ViewBag.month;
+    int year = (int)ViewBag.year;
+    string Message = "";
+
+    //Kiểm tra giá trị của month và year hợp lệ
+    if(month < 1 || month > 12)
+    {
+        Message += "Tháng không hợp lệ ";
+    }
+    else if(year < 1)
+    {
+        Message += "Năm không hợp lệ";
+    }
+    int soNgay = DateTime.DaysInMonth(year,month);
+    Message += $"Tháng {month} Năm {year} có {soNgay} Ngày ";
+
+}
+
+<p>@Message</p>
+

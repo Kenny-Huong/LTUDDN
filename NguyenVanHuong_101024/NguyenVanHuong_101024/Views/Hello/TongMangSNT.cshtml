@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "TongMangSNT";
+}
+
+<h2>TongMangSNT</h2>
+@if(ViewBag.SoNguyenToList != null && ViewBag.SoNguyenToList.Count > 0){ 
+    <p>Các số nguyên tố trong mảng : @string.Join(",",ViewBag.SoNguyenToList)</p>
+    <p>Tổng các số nguyên tố : @ViewBag.TongSoNguyenTo</p>
+}
+else
+{
+    <p>Không có số nguyên tố nào trong mảng .</p>
+}

@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "USCLN";
+}
+
+<h2>USCLN</h2>
+@{ 
+    decimal a = ViewBag.a;
+    decimal b = ViewBag.b;
+
+    while(b != 0)
+    {
+        decimal temp = b;
+        b = a % b;
+        a = temp;
+    }
+    
+}
+
+<p>@a</p>
+
