@@ -1,0 +1,42 @@
+﻿
+@model NguyenVanHuong_17102024_TI15A5.Models.Users
+@{
+    ViewBag.Title = "TruyenDoiTuong";
+}
+
+<h2>TruyenDoiTuong</h2>
+
+@{ Html.BeginForm("NhanDL","GiaiBaiToan");}
+@Html.LabelFor(m => m.Id)
+@Html.EditorFor(m => m.Id)
+<br />
+@Html.LabelFor(m => m.Name)
+@Html.TextBoxFor(m => m.Name)
+<br />
+@Html.LabelFor(m => m.Address)
+@Html.TextAreaFor(m => m.Address)
+<br />
+@Html.LabelFor(m => m.Email)
+@Html.EditorFor(m => m.Email)
+<br />
+@Html.LabelFor(m => m.Gender)
+@*@Html.CheckBoxFor(m => m.Gender);*@
+@Html.EditorFor(m => m.Gender)
+@*Nam @Html.RadioButtonFor(m => m.Gender, true) <br />
+Nữ @Html.RadioButtonFor(m => m.Gender, false)*@
+<br />
+@Html.LabelFor(m => m.Password)
+@Html.EditorFor(m => m.Password)
+
+<br />
+<input type="submit" value="Submit" />
+@{ Html.EndForm();}
+@*@{ var user = ViewBag.user as NguyenVanHuong_17102024_TI15A5.Models.Users;}*@
+@*@{ var user = Model;}
+    <p>@user.Id</p>
+    <p>@user.Name</p>
+    <p>@user.Address</p>
+    <p>@user.Email</p>
+    <p>@user.Gender</p>
+    <p>@user.Password</p>*@
+

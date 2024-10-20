@@ -1,0 +1,17 @@
+﻿@model IEnumerable<NguyenVanHuong_17102024_TI15A5.Models.Users>
+@{
+    ViewBag.Title = "TruyenTapDoiTuong";
+}
+
+<h2>TruyenTapDoiTuong</h2>
+@*@{ var users = ViewBag.users as List<NguyenVanHuong_17102024_TI15A5.Models.Users>;}*@
+@{ var users = Model;}
+@foreach (var user in users)
+{
+    <h4>@user.Id</h4>
+    <p>@user.Name</p>
+    <p>@user.Address</p>
+    <p>@user.Email</p>
+    <p>@user.Gender</p>
+    <p>@user.Password</p>
+}
