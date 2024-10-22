@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "TruyenSinhVien";
+}
+
+<h2>TruyenSinhVien</h2>
+
+@{ 
+    var sinhVien = ViewBag.sinhVien as List<NguyenVanHuong_BTVN_Tuan3.Models.SinhVien>;
+    
+    foreach(var item in sinhVien)
+            {
+                <p>@item.MaSinhVien</p>
+                <p>@item.HoTen</p>
+                <p>@item.NgaySinh</p>
+                <p>@item.GioiTinh</p>
+                <p>@item.QueQuan</p>
+                <p>@item.LopHoc</p>
+            }
+}

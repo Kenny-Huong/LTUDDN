@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "SoChinhPhuong";
+}
+
+<h2>Tìm số chính phương trong chuỗi số</h2>
+
+<form method="post">
+    <label for="number">Nhập chuỗi các số(cách nhau bởi dấu "," : </label>
+    <input type="text" id="numbers" name="numbers"value="@ViewBag.Numbers" />
+    <button type="submit">Tìm số Chính Phương</button>
+</form>
+
+@if (!string.IsNullOrWhiteSpace(ViewBag.Error))
+{
+    <p style="color: red">@ViewBag.Error</p>
+}
+
+@if(ViewBag.SoChinhPhuongList != null && ViewBag.SoChinhPhuongList.Count > 0)
+{
+    <h3>Các số chính phương tìm thấy : </h3>
+    <ul>
+        @foreach(var so in ViewBag.SoChinhPhuongList)
+                {
+                    <li>@so</li>
+                }
+
+
+
+    </ul>
+}
+else if(ViewBag.SoChinhPhuongList != null)
+            {
+                <p>Không tìm thấy số chính phương nào.</p>
+            }
+       

@@ -1,0 +1,40 @@
+﻿@model NguyenVanHuong_BTVN_Tuan3.Models.PhuongTrinhBacHai
+@{
+    ViewBag.Title = "GiaiPTB2";
+}
+
+<h2>Giải Phương Trình Bậc 2</h2>
+
+@*<form method="post">
+        <div>
+            <label for="a">Nhập hệ số a : </label>
+            <input type="number" id="a" name="a" value="@Model.A" required />
+        </div>
+        <div>
+            <label for="b">Nhập hệ số b: </label>
+            <input type="number" id="b" name="b" value="@Model.B" required />
+        </div>
+        <div>
+            <label for="c">Nhập hệ số c : </label>
+            <input type="number" id="c" name="c" value="@Model.C" required />
+        </div>
+        <button type="submit">Submit</button>
+    </form>*@
+@{ Html.BeginForm();}
+@Html.LabelFor(m => m.A)
+@Html.EditorFor(m => m.A)
+<br />
+@Html.LabelFor(m => m.B)
+@Html.EditorFor(m => m.B)
+<br />
+@Html.LabelFor(m => m.C)
+@Html.EditorFor(m => m. C)
+<br />
+<input type="submit" value="Giải PTB2"/>
+
+@if (ViewBag.KetQua != null)
+{
+    <h3>Kết Qủa</h3>
+    <p>@ViewBag.KetQua</p>
+}
+
