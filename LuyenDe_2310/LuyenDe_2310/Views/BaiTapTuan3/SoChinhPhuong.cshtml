@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "SoChinhPhuong";
+}
+
+<h2>SoChinhPhuong</h2>
+<form method="post">
+    <label>Nhập vào mảng n : </label>
+    <input type="text" id="numbers" name="numbers" value="@ViewBag.numbers" />
+    <input type="submit" value="submit" />
+</form>
+
+@if (ViewBag.soCPList != null && ViewBag.soCPList.Count > 0)
+{
+    <ul>
+        @foreach (var item in @ViewBag.soCPList)
+        {
+            @item<br />
+        }
+
+    </ul>
+}
+else if (ViewBag.soCPList != null)
+{
+    <p>Không tìm thấy số chính phương nào</p>
+}

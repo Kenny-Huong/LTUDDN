@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "Address";
+}
+
+<h2>Address</h2>
+@{ Html.BeginForm();}
+@Html.DropDownList("Address" ,new SelectList(new[] {"Bắc Ninh", "Hà Nội", "Hải Phòng", "Thanh Hóa"}))
+@{ Html.EndForm();}
+

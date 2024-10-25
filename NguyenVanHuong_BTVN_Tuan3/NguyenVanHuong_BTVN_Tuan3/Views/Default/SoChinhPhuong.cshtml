@@ -16,7 +16,7 @@
     <p style="color: red">@ViewBag.Error</p>
 }
 
-@if(ViewBag.SoChinhPhuongList != null && ViewBag.SoChinhPhuongList.Count > 0)
+@if(ViewBag.SoChinhPhuongList != null )
 {
     <h3>Các số chính phương tìm thấy : </h3>
     <ul>
@@ -29,8 +29,3 @@
 
     </ul>
 }
-else if(ViewBag.SoChinhPhuongList != null)
-            {
-                <p>Không tìm thấy số chính phương nào.</p>
-            }
-       
