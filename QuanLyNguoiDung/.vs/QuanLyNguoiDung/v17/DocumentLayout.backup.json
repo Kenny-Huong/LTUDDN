@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTUDDN\\QuanLyNguoiDung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|d:\\ltuddn\\quanlynguoidung\\quanlynguoidung\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|D:\\LTUDDN\\QuanLyNguoiDung\\quanlynguoidung\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|D:\\LTUDDN\\QuanLyNguoiDung\\quanlynguoidung\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|D:\\LTUDDN\\QuanLyNguoiDung\\quanlynguoidung\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|D:\\LTUDDN\\QuanLyNguoiDung\\quanlynguoidung\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|D:\\LTUDDN\\QuanLyNguoiDung\\quanlynguoidung\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|D:\\LTUDDN\\QuanLyNguoiDung\\quanlynguoidung\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "QuanLyNguoiDung\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "QuanLyNguoiDung\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAgwHYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:04:52.53Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNguoiDung\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "QuanLyNguoiDung\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T04:48:26.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNguoiDung\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "QuanLyNguoiDung\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAFIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T02:39:06.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNguoiDung\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "QuanLyNguoiDung\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T02:28:39.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNguoiDung\\Views\\Users\\Details.cshtml",
+              "ToolTip": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "QuanLyNguoiDung\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T02:20:36.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyNguoiDung\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "QuanLyNguoiDung\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T02:13:23.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "QuanLyNguoiDung\\Models\\Users.cs",
+              "ToolTip": "D:\\LTUDDN\\QuanLyNguoiDung\\QuanLyNguoiDung\\Models\\Users.cs",
+              "RelativeToolTip": "QuanLyNguoiDung\\Models\\Users.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:59:49.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
