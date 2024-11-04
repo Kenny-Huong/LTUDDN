@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\LTUDDN\\QuanLyNguoiDung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|D:\\LTUDDN\\QuanLyNguoiDung\\quanlynguoidung\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|d:\\ltuddn\\quanlynguoidung\\quanlynguoidung\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|d:\\ltuddn\\quanlynguoidung\\quanlynguoidung\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|D:\\LTUDDN\\QuanLyNguoiDung\\quanlynguoidung\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{792477B4-0843-4F22-A75E-4DA1453E69C7}|QuanLyNguoiDung\\QuanLyNguoiDung.csproj|solutionrelative:quanlynguoidung\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,8 +51,7 @@
               "ViewState": "AgIAAIUAAAAAAAAAAAAqwJMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T02:04:52.53Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "QuanLyNguoiDung\\Views\\Users\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T04:48:26.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T04:48:26.938Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "QuanLyNguoiDung\\Views\\Users\\Edit.cshtml",
               "ViewState": "AgIAADYAAAAAAAAAAAAuwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T02:39:06.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T02:39:06.625Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "QuanLyNguoiDung\\Views\\Users\\Create.cshtml",
               "ViewState": "AgIAAEAAAAAAAAAAAAAuwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T02:28:39.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T02:28:39.154Z"
             },
             {
               "$type": "Document",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "QuanLyNguoiDung\\Models\\Users.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T01:59:49.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T01:59:49.75Z"
             }
           ]
         }

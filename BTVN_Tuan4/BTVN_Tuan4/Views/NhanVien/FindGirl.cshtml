@@ -1,0 +1,72 @@
+﻿@model IEnumerable<BTVN_Tuan4.Models.NhanVien>
+
+@{
+    ViewBag.Title = "FindGirl";
+}
+
+<h2>FindGirl</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.hoTen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ngaySinh)
+        </th>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.GenderText)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dienThoai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HSL)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Luong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tenPhong)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.hoTen)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ngaySinh)
+        </td>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.GenderText)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dienThoai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HSL)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Luong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tenPhong)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.maNV }) |
+            @Html.ActionLink("Details", "Details", new { id=item.maNV }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.maNV })
+        </td>
+    </tr>
+}
+
+</table>
+<p>
+    @Html.ActionLink("Quay lại","Index")
+</p>

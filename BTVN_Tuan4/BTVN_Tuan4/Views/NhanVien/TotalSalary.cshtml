@@ -1,0 +1,28 @@
+﻿@model IEnumerable<BTVN_Tuan4.Models.NhanVien>
+
+@{
+    ViewBag.Title = "TotalSalary";
+}
+
+<h2>TotalSalary</h2>
+
+@using (Html.BeginForm("TotalSalary", "NhanVien", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.Label("Tên Phòng")
+        @Html.TextBox("tenPhong", null, new { @class = "form-control" })
+        @Html.ValidationMessage("tenPhong", "", new { @class = "text-danger" })
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Tính Tổng Lương</button>
+    <br />
+}
+
+@if (ViewBag.TotalSalary != null)
+{
+    <h3>Tổng Lương: @ViewBag.TotalSalary</h3>
+}
+
+<p>
+    @Html.ActionLink("Quay lại", "Index")
+</p>

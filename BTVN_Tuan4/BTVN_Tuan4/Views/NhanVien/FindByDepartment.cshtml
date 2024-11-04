@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewBag.Title = "FindByDepartment";
+}
+
+<h2>Tìm kiếm nhân viên theo phòng</h2>
+
+@using (Html.BeginForm("FindByDepartment", "NhanVien", FormMethod.Post))
+{
+    <div class="form-group">
+        <label for="tenPhong">Tên phòng:</label>
+        @Html.TextBox("tenPhong", null, new { @class = "form-control" })
+        @Html.ValidationMessage("tenPhong", "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+}
+
+@if (ViewBag.NhanVienList != null)
+{
+    <h3>Kết quả tìm kiếm:</h3>
+
+    if (ViewBag.NhanVienList.Count > 0)
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Mã NV</th>
+                    <th>Họ tên</th>
+                    <th>Ngày sinh</th>
+                    <th>Giới tính</th>
+                    <th>Điện thoại</th>
+                    <th>HSL</th>
+                    <th>Lương</th>
+                    <th>Phòng</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var nv in ViewBag.NhanVienList)
+                {
+                    <tr>
+                        <td>@nv.maNV</td>
+                        <td>@nv.hoTen</td>
+                        <td>@nv.ngaySinh.ToShortDateString()</td>
+                        <td>@(nv.gioiTinh ? "Nam" : "Nữ")</td>
+                        <td>@nv.dienThoai</td>
+                        <td>@nv.HSL</td>
+                        <td>@nv.Luong</td>
+                        <td>@nv.tenPhong</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>@ViewBag.Message</p>
+    }
+}
+
+<p>
+    @Html.ActionLink("Quay lại", "Index")
+</p>
