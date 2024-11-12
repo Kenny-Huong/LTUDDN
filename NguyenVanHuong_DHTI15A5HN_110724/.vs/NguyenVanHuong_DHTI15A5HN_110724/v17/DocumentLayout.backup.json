@@ -3,64 +3,32 @@
   "WorkspaceRootPath": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\app_start\\mydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\app_start\\mydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\models\\shopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\models\\shopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|d:\\ltuddn\\nguyenvanhuong_dhti15a5hn_110724\\nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\app_start\\mydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\app_start\\mydbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|d:\\ltuddn\\nguyenvanhuong_dhti15a5hn_110724\\nguyenvanhuong_dhti15a5hn_110724\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\timkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\nguyenvanhuong_dhti15a5hn_110724\\models\\shopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C44D4E8-DE12-4073-9585-0D29FFB35C55}|NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724.csproj|solutionrelative:nguyenvanhuong_dhti15a5hn_110724\\models\\shopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,132 +46,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Global.asax.cs",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Global.asax.cs",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Global.asax.cs",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T02:52:28.005Z",
+              "DocumentIndex": 2,
+              "Title": "TimKiem.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\TimKiem.cshtml",
+              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\TimKiem.cshtml",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\TimKiem.cshtml",
+              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\TimKiem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T07:46:15.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShopDataContext.cs",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Models\\ShopDataContext.cs",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Models\\ShopDataContext.cs",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Models\\ShopDataContext.cs",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Models\\ShopDataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T02:50:15.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Models\\Customer.cs",
               "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Models\\Customer.cs",
               "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T02:45:22.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Index.cshtml",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Index.cshtml",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Index.cshtml",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T03:43:55.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T03:47:05.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Models\\Order.cs",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Models\\Order.cs",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T02:46:59.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\OrdersController.cs",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowBwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T03:44:32.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\CustomersController.cs",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T03:02:01.902Z",
+              "WhenOpened": "2024-11-11T07:45:20.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyDbInitializer.cs",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\App_Start\\MyDbInitializer.cs",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\App_Start\\MyDbInitializer.cs",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\App_Start\\MyDbInitializer.cs",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\App_Start\\MyDbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T03:31:46.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T03:43:33.909Z",
+              "WhenOpened": "2024-11-11T07:38:11.59Z",
               "EditorCaption": ""
             },
             {
@@ -216,59 +93,46 @@
               "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T03:46:58.61Z",
+              "WhenOpened": "2024-11-11T07:38:10.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Customers\\Create.cshtml",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Customers\\Create.cshtml",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Customers\\Create.cshtml",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Customers\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T03:51:38.961Z",
+              "DocumentIndex": 4,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:38:06.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Details.cshtml",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Details.cshtml",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Details.cshtml",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Details.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T04:13:07.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Edit.cshtml",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Edit.cshtml",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Edit.cshtml",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\Edit.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T03:58:13.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TimKiem.cshtml",
-              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\TimKiem.cshtml",
-              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\TimKiem.cshtml",
-              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\TimKiem.cshtml",
-              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Views\\Orders\\TimKiem.cshtml",
+              "DocumentIndex": 5,
+              "Title": "MyDbInitializer.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\App_Start\\MyDbInitializer.cs",
+              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\App_Start\\MyDbInitializer.cs",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\App_Start\\MyDbInitializer.cs",
+              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\App_Start\\MyDbInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T04:25:56.446Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:38:03.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShopDataContext.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Models\\ShopDataContext.cs",
+              "RelativeDocumentMoniker": "NguyenVanHuong_DHTI15A5HN_110724\\Models\\ShopDataContext.cs",
+              "ToolTip": "D:\\LTUDDN\\NguyenVanHuong_DHTI15A5HN_110724\\NguyenVanHuong_DHTI15A5HN_110724\\Models\\ShopDataContext.cs",
+              "RelativeToolTip": "NguyenVanHuong_DHTI15A5HN_110724\\Models\\ShopDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:37:57.565Z",
               "EditorCaption": ""
             }
           ]

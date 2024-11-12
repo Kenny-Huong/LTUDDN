@@ -9,6 +9,12 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
+@using (Html.BeginForm("SearchProduct", "BanHangs", FormMethod.Get))
+{
+    <label for="searchMasp">Mã sản phẩm:</label>
+    <input type="text" id="searchMasp" name="masp" />
+    <button type="submit">Tìm kiếm</button>
+}
 <table class="table">
     <tr>
         <th>
@@ -29,29 +35,30 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.NhanVien.hoTen)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.NhanVien.tenQuay)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.SanPham.tenSP)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.dinhMuc)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.soLuongBan)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
-            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhanVien.hoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhanVien.tenQuay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SanPham.tenSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dinhMuc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.soLuongBan)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
 
 </table>

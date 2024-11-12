@@ -1,0 +1,39 @@
+﻿@model IEnumerable<BTVN_TUAN6_NGUYENVANHUONG.Models.NhanVien>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tenQuay)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hoTen)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.tenQuay)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hoTen)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.maNV }) |
+            @Html.ActionLink("Details", "Details", new { id=item.maNV }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.maNV })
+        </td>
+    </tr>
+}
+
+</table>

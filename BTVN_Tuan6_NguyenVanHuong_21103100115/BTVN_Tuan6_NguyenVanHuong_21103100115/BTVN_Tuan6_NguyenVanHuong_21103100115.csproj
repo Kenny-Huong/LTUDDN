@@ -138,6 +138,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\BanHang.cs" />
+    <Compile Include="Models\EmployeeBestSallingViewModel.cs" />
+    <Compile Include="Models\EmployeeSalesViewModel.cs" />
     <Compile Include="Models\QLBHDataContext.cs" />
     <Compile Include="Models\NhanVien.cs" />
     <Compile Include="Models\SanPham.cs" />
@@ -213,6 +215,10 @@
     <Content Include="Views\BanHangs\Details.cshtml" />
     <Content Include="Views\BanHangs\Edit.cshtml" />
     <Content Include="Views\BanHangs\Index.cshtml" />
+    <Content Include="Views\BanHangs\SearchProduct.cshtml" />
+    <Content Include="Views\BanHangs\GetTotalSalesByEmployee.cshtml" />
+    <Content Include="Views\BanHangs\GetSalesAboveLimit.cshtml" />
+    <Content Include="Views\BanHangs\GetBestSellingProduct.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

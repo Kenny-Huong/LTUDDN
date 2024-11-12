@@ -41,7 +41,7 @@ namespace NguyenVanHuong_DHTI15A5HN_110724.Controllers
             var maxThanhTien = orders.Max(u=>u.Price*u.Quantity);
             var minThanhTien = orders.Min(u=>u.Price*u.Quantity);
             var TBThanhTien = orders.Average(u => u.Price * u.Quantity);
-            var tongThanhTien = orders.Sum(u => u.Price * u.Quantity);
+            var tongThanhTien = orders.Sum(u => u.Price * u.Quantity);      
             orders = orders.Where(o => o.Price * o.Quantity == minThanhTien);
             return View(orders.ToList());
         }

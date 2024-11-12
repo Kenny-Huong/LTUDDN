@@ -1,0 +1,57 @@
+﻿@model IEnumerable<BTVN_TUAN6_NGUYENVANHUONG.Models.BanHang>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("SearchProduct", "BanHangs", FormMethod.Get))
+            {
+                <label>Mã sản phẩm : </label>
+                <input type="text" name="masp"/>
+                <button type="submit">Tìm kiếm</button>
+            }
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NhanVien.tenQuay)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SanPham.tenSP)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dinhMuc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.soLuongBan)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NhanVien.tenQuay)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SanPham.tenSP)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dinhMuc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.soLuongBan)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

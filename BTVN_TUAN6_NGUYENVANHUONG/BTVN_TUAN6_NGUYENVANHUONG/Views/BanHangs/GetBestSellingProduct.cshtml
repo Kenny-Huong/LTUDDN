@@ -1,0 +1,29 @@
+﻿@model dynamic
+
+@{
+    ViewBag.Title = "Mặt hàng bán nhiều nhất";
+}
+
+<h2>Mặt hàng bán nhiều nhất</h2>
+
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên sản phẩm</th>
+                <th>Tổng số lượng bán</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.TenSanPham</td>        <!-- Tên sản phẩm -->
+                <td>@Model.TotalQuantitySold</td> <!-- Tổng số lượng bán -->
+            </tr>
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Không có dữ liệu bán hàng.</p>
+}

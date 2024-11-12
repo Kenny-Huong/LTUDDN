@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Chi tiết bán hàng vượt định mức";
+}
+
+<h2>Chi tiết bán hàng vượt định mức</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã sản phẩm</th>
+            <th>Tên sản phẩm</th>
+            <th>Số lượng bán</th>
+            <th>Định mức</th>
+            <th>Nhân viên</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.SanPham.maSP</td>                  <!-- Mã sản phẩm -->
+                <td>@item.SanPham.tenSP</td>                 <!-- Tên sản phẩm -->
+                <td>@item.soLuongBan</td>                    <!-- Số lượng bán -->
+                <td>@item.dinhMuc</td>                       <!-- Định mức -->
+                <td>@item.NhanVien.tenQuay</td>              <!-- Tên nhân viên -->
+            </tr>
+        }
+    </tbody>
+</table>

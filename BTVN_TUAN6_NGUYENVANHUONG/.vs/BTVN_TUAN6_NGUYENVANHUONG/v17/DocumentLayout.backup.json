@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTUDDN\\BTVN_TUAN6_NGUYENVANHUONG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF2E-C4A8-4B9D-B8B5-97ACE0814298}|BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG.csproj|d:\\ltuddn\\btvn_tuan6_nguyenvanhuong\\btvn_tuan6_nguyenvanhuong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CFF2E-C4A8-4B9D-B8B5-97ACE0814298}|BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG.csproj|solutionrelative:btvn_tuan6_nguyenvanhuong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF2E-C4A8-4B9D-B8B5-97ACE0814298}|BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG.csproj|d:\\ltuddn\\btvn_tuan6_nguyenvanhuong\\btvn_tuan6_nguyenvanhuong\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CFF2E-C4A8-4B9D-B8B5-97ACE0814298}|BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG.csproj|solutionrelative:btvn_tuan6_nguyenvanhuong\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF2E-C4A8-4B9D-B8B5-97ACE0814298}|BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG.csproj|d:\\ltuddn\\btvn_tuan6_nguyenvanhuong\\btvn_tuan6_nguyenvanhuong\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CFF2E-C4A8-4B9D-B8B5-97ACE0814298}|BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG.csproj|solutionrelative:btvn_tuan6_nguyenvanhuong\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BTVN_TUAN6_NGUYENVANHUONG\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LTUDDN\\BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BTVN_TUAN6_NGUYENVANHUONG\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T11:57:35.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "BTVN_TUAN6_NGUYENVANHUONG\\Models\\SanPham.cs",
+              "ToolTip": "D:\\LTUDDN\\BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG\\Models\\SanPham.cs",
+              "RelativeToolTip": "BTVN_TUAN6_NGUYENVANHUONG\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:03:09.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BTVN_TUAN6_NGUYENVANHUONG\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\LTUDDN\\BTVN_TUAN6_NGUYENVANHUONG\\BTVN_TUAN6_NGUYENVANHUONG\\Models\\NhanVien.cs",
+              "RelativeToolTip": "BTVN_TUAN6_NGUYENVANHUONG\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:01:12.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

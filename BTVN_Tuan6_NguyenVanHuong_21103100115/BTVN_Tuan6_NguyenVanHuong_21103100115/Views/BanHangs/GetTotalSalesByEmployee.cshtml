@@ -1,0 +1,25 @@
+﻿
+
+@{
+    ViewBag.Title = "Tổng số lượng bán của từng nhân viên";
+}
+
+<h2>Tổng số lượng bán của từng nhân viên</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Họ tên</th>
+            <th>Tổng số lượng bán</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.HoTen</td>
+                <td>@item.TotalQuantitySold</td>
+            </tr>
+        }
+    </tbody>
+</table>

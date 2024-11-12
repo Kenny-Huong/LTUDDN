@@ -132,5 +132,70 @@ namespace BTVN_Tuan6_NguyenVanHuong_21103100115.Controllers
             }
             base.Dispose(disposing);
         }
+        public ActionResult SearchProduct(string masp)
+        {
+            if (string.IsNullOrEmpty(masp))
+            {
+                ViewBag.Message = "Vui lòng nhập mã sản phẩm.";
+                return View();
+            }
+            var orders = db.banHangs.Include(o => o.SanPham)
+                            .Where(o => o.SanPham.maSP.Contains(masp))
+                            .ToList();
+
+            // Kiểm tra nếu không có kết quả
+            if (orders.Count == 0)
+            {
+                ViewBag.Message = "Không có sản phẩm nào với mã sản phẩm bạn đã nhập.";
+            }
+            return View(orders.ToList());
+        }
+
+        public ActionResult GetTotalSalesByEmployee()
+        {
+            // Nhóm các đơn hàng theo nhân viên và tính tổng số lượng bán
+            var totalSalesByEmployee = db.banHangs
+                .GroupBy(b => b.NhanVien)
+                .Select(g => new EmployeeSalesViewModel
+                {
+                    HoTen = g.Key.hoTen,         // Họ tên của nhân viên
+                    TotalQuantitySold = g.Sum(b => b.soLuongBan)   // Tổng số lượng bán
+                })
+                .ToList();
+
+            // Truyền dữ liệu vào View
+            return View(totalSalesByEmployee);
+        }
+        public ActionResult GetSalesAboveLimit()
+        {
+            // Lọc các bản ghi có số lượng bán > định mức và sắp xếp theo số lượng bán giảm dần
+            var salesAboveLimit = db.banHangs
+                .Where(b => b.soLuongBan > b.dinhMuc)          // Lọc bản ghi có số lượng bán vượt định mức
+                .OrderByDescending(b => b.soLuongBan)         // Sắp xếp theo số lượng bán giảm dần
+                .Include(b => b.SanPham)                       // Bao gồm thông tin sản phẩm (nếu cần)
+                .Include(b => b.NhanVien)                      // Bao gồm thông tin nhân viên (nếu cần)
+                .ToList();
+
+            // Truyền dữ liệu vào View
+            return View(salesAboveLimit);
+        }
+
+        public ActionResult GetBestSellingProduct()
+        {
+            // Nhóm các bản ghi theo sản phẩm và tính tổng số lượng bán cho mỗi sản phẩm
+            var bestSellingProduct = db.banHangs
+                .GroupBy(b => b.SanPham)   // Nhóm theo sản phẩm
+                .Select(g => new EmployeeBestSallingViewModel
+                {
+                    TenSanPham = g.Key.tenSP,  // Lấy tên sản phẩm
+                    TotalQuantitySold = g.Sum(b => b.soLuongBan)  // Tính tổng số lượng bán
+                })
+                .OrderByDescending(g => g.TotalQuantitySold)  // Sắp xếp theo tổng số lượng bán giảm dần
+                .FirstOrDefault();  // Lấy sản phẩm có số lượng bán cao nhất
+
+            // Truyền kết quả vào View
+            return View(bestSellingProduct);
+        }
+
     }
 }
