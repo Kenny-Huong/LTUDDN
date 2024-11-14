@@ -1,0 +1,50 @@
+﻿@model NguyenVanHuong_BTTL_141124.Models.SinhVien
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SinhVien</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.hoTen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hoTen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngaySinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaySinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.gioiTinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.gioiTinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Lop.tenLop)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Lop.tenLop)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.maSV }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<NguyenVanHuong_BTTL_141124.Models.Diem>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.diemTBM)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SinhVien.hoTen)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.diemTBM)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SinhVien.hoTen)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {id=item.maSV, id2=item.maMonHoc/* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { id = item.maSV, id2 = item.maMonHoc/* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.maSV, id2 = item.maMonHoc /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,26 @@
+﻿@model NguyenVanHuong_BTTL_141124.Models.Lop
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Lop</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.tenLop)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tenLop)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.maLop }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

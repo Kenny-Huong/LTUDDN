@@ -1,0 +1,34 @@
+﻿@model NguyenVanHuong_BTTL_141124.Models.Diem
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Diem</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.diemTBM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diemTBM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SinhVien.hoTen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SinhVien.hoTen)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

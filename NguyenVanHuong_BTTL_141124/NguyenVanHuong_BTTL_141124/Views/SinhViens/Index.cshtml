@@ -1,0 +1,58 @@
+﻿@model IEnumerable<NguyenVanHuong_BTTL_141124.Models.SinhVien>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.maSV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hoTen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ngaySinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.gioiTinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Lop.tenLop)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.maSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hoTen)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ngaySinh)
+        </td>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.gioiTinh)*@
+            @(item.gioiTinh.HasValue ? (item.gioiTinh.Value ? "Nam" : "Nữ") : "Chưa xác định")
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Lop.tenLop)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.maSV }) |
+            @Html.ActionLink("Details", "Details", new { id = item.maSV }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.maSV })
+        </td>
+    </tr>
+}
+
+</table>
