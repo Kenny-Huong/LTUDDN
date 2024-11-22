@@ -1,0 +1,77 @@
+﻿@model IEnumerable<_26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.Models.HoaDon>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("SearchProduct", "HoaDon", FormMethod.Get))
+{
+    <label>Tên món : </label>
+    <input type="text" name="tenMon" />
+    <button type="submit">Tìm kiếm</button>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SoHD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayLapHD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MonAn.TenMon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MonAn.LoaiMon)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.SoLuong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MonAn.Gia)
+        </th>
+        <th>
+            ThanhTien
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoHD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayLapHD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MonAn.TenMon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MonAn.LoaiMon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.MonAn.Gia)
+            </td>
+            <td>
+                @(item.SoLuong * item.MonAn.Gia)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.SoHD, maMon = item.MaMon }) |
+                @Html.ActionLink("Details", "Details", new { id = item.SoHD, maMon = item.MaMon }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.SoHD, maMon = item.MaMon })
+            </td>
+        </tr>
+    }
+
+</table>

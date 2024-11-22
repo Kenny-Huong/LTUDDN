@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|d:\\ltuddn\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\hoadon\\xapxep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|solutionrelative:26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\hoadon\\xapxep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|d:\\ltuddn\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|solutionrelative:26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|d:\\ltuddn\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\hoadon\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|solutionrelative:26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\hoadon\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\hoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|solutionrelative:26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\hoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\monan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|solutionrelative:26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\monan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\models\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|solutionrelative:26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\models\\monan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\hoadon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2B13B6C-D31B-4F36-9D3C-EBBEAC3B2E15}|26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN.csproj|solutionrelative:26_ltuddnd_nguyenvanhuong_21103100115_dhti15a5hn\\views\\hoadon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XapXep.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\XapXep.cshtml",
+              "RelativeDocumentMoniker": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\XapXep.cshtml",
+              "ToolTip": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\XapXep.cshtml",
+              "RelativeToolTip": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\XapXep.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T09:52:03.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchProduct.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\SearchProduct.cshtml",
+              "RelativeDocumentMoniker": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\SearchProduct.cshtml",
+              "ToolTip": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\SearchProduct.cshtml",
+              "RelativeToolTip": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\SearchProduct.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T09:43:07.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonAn.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Models\\MonAn.cs",
+              "RelativeDocumentMoniker": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Models\\MonAn.cs",
+              "ToolTip": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Models\\MonAn.cs",
+              "RelativeToolTip": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Models\\MonAn.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:33:41.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\MonAn\\Index.cshtml",
+              "RelativeDocumentMoniker": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\MonAn\\Index.cshtml",
+              "ToolTip": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\MonAn\\Index.cshtml",
+              "RelativeToolTip": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\MonAn\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:22:10.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Controllers\\HoaDonController.cs",
+              "ToolTip": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Controllers\\HoaDonController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAYwI0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:08:01.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\Create.cshtml",
+              "RelativeDocumentMoniker": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\Create.cshtml",
+              "ToolTip": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\Create.cshtml",
+              "RelativeToolTip": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:07:53.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\Index.cshtml",
+              "RelativeDocumentMoniker": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\Index.cshtml",
+              "ToolTip": "D:\\LTUDDN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\Index.cshtml",
+              "RelativeToolTip": "26_LTUDDND_NguyenVanHuong_21103100115_DHTI15A5HN\\Views\\HoaDon\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:00:13.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
