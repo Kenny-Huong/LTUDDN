@@ -1,0 +1,28 @@
+﻿@model IEnumerable<BookTruyVanLinq_NVH.Models.Book>
+
+@{
+    ViewBag.Title = "YC1";
+}
+
+<h2>YC1</h2>
+
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Tác giả</th>
+            <th>Tổng giá sách</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.AuthorName</td>
+                <td>@item.TotalPrice</td> <!-- Sửa lại tên thành TotalPrice -->
+            </tr>
+        }
+    </tbody>
+</table>
